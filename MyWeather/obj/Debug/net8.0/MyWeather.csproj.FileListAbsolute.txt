@@ -1,0 +1,15 @@
+/workspaces/c--Notes/MyWeather/bin/Debug/net8.0/MyWeather
+/workspaces/c--Notes/MyWeather/bin/Debug/net8.0/MyWeather.deps.json
+/workspaces/c--Notes/MyWeather/bin/Debug/net8.0/MyWeather.runtimeconfig.json
+/workspaces/c--Notes/MyWeather/bin/Debug/net8.0/MyWeather.dll
+/workspaces/c--Notes/MyWeather/bin/Debug/net8.0/MyWeather.pdb
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.AssemblyInfoInputs.cache
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.AssemblyInfo.cs
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.csproj.CoreCompileInputs.cache
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.sourcelink.json
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.dll
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/refint/MyWeather.dll
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.pdb
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/MyWeather.genruntimeconfig.cache
+/workspaces/c--Notes/MyWeather/obj/Debug/net8.0/ref/MyWeather.dll
