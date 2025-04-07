@@ -1,0 +1,15 @@
+/workspaces/c-Sharp/OnePiece/bin/Debug/net8.0/OnePiece
+/workspaces/c-Sharp/OnePiece/bin/Debug/net8.0/OnePiece.deps.json
+/workspaces/c-Sharp/OnePiece/bin/Debug/net8.0/OnePiece.runtimeconfig.json
+/workspaces/c-Sharp/OnePiece/bin/Debug/net8.0/OnePiece.dll
+/workspaces/c-Sharp/OnePiece/bin/Debug/net8.0/OnePiece.pdb
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.AssemblyInfoInputs.cache
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.AssemblyInfo.cs
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.csproj.CoreCompileInputs.cache
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.sourcelink.json
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.dll
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/refint/OnePiece.dll
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.pdb
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/OnePiece.genruntimeconfig.cache
+/workspaces/c-Sharp/OnePiece/obj/Debug/net8.0/ref/OnePiece.dll
